@@ -4,6 +4,7 @@ Fitness Tracker Analysis - Indian market - DataDNA Challenge
 Fitness Tracker Analysis - This challenge involves the analysis of the different fitness tracker devices in India's market.
 
 Link to the dataset - https://pomerolpartners.com/dataset_challenge/april-2023/
+
 Tool used - #powerbi
 
 Objectives:
