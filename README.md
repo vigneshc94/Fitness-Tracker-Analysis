@@ -5,7 +5,7 @@ Fitness Tracker Analysis - This challenge involves the analysis of the different
 
 Link to the dataset - https://pomerolpartners.com/dataset_challenge/april-2023/
 
-Tool used - #powerbi
+Tools used - #powerbi, Excel, PowerPoint
 
 Objectives:
 1. Is there a significant demand for fitness trackers in the Indian market?
